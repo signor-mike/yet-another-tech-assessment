@@ -1,8 +1,9 @@
 # clone, cd, start
-
+```
 git clone https://github.com/Mike-OxHuge/yet-another-tech-assessment.git
 cd yet-another-tech-assessment
 npm i && npm run start
+```
 
 And fire your POST requests to http://localhost:42069/api/transaction
 
