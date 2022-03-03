@@ -24,7 +24,7 @@ JSON:
 }
 ```
 
-Available IDs:
+Available IDs:  
 1 - default comission;  
 42 - discount comission;  
 666 - turnover more than 1000;  
