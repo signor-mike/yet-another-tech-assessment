@@ -4,9 +4,17 @@ import { commCalc } from "../../utils/comissionCalc.js";
 import { comissions } from "../../lib/comissionRates.js";
 const router = express.Router();
 
-router.route("/test").get(async (req, res, next) => {
+router.route("/rawr").get(async (req, res, next) => {
 	try {
-		res.status(200).send(`IT'S ALIVE!!!`);
+		res.status(200).send({
+			song: `
+		I got the eye of the tiger, a fighter
+		Dancing through the fire
+		'Cause I am a champion, and you're gonna hear me roar
+		Louder, louder than a lion
+		'Cause I am a champion, and you're gonna hear me roar
+		`,
+		});
 	} catch (error) {
 		next(error);
 	}
