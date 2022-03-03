@@ -1,0 +1,1 @@
+cd $HOME && mkdir temp-folder-mikes-stuff && cd temp-folder-mikes-stuff && git clone https://github.com/Mike-OxHuge/yet-another-tech-assessment.git && cd yet-another-tech-assessment && npm i && npm run start
