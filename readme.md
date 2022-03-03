@@ -42,4 +42,4 @@ delete local repo with all its files:
 It's hard to say. From start to finish is about 6 hours. But I spent really a lot of time scaffolding the project.
 And looking for references in my old code, also googling some stuff.
 These 6 hours also include my dinner, which is at least 1 hour, bunch of coffee breaks and probably a little nap.
-I also watched some netflix with my wife.
+I also watched some netflix with my wife. And we had munchies. So probably about 3 hours :)
