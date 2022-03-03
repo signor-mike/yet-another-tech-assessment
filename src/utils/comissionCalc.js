@@ -10,6 +10,7 @@ const defaultComission = (amount) => {
 	return comm < minimumRate ? minimumRate : comm;
 };
 
+// I am not really proud of these two functions because you'd have to edit both of them if you want to add more cases for discount.
 function isEligibleForDiscount(customer_id) {
 	const customer = customers.find((customer) => customer.id === customer_id);
 	if (!customer)
