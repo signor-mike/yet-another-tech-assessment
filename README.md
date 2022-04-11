@@ -1,9 +1,11 @@
 ## HOW TO RUN:
 
 ```
-git clone https://github.com/Mike-OxHuge/yet-another-tech-assessment.git
+git clone https://github.com/Mike-OxHuge/yet-another-tech-assessment.git && cd yet-another-tech-assessment && git checkout confidence && npm install && npm run start
+```
 
-
+then go to https://cors-anywhere.herokuapp.com/corsdeno and hit the button.
+Should work after that :)
 
 # Getting Started with Create React App
 
@@ -75,4 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```
+
 ```
