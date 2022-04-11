@@ -4,7 +4,7 @@
 git clone https://github.com/Mike-OxHuge/yet-another-tech-assessment.git && cd yet-another-tech-assessment && git checkout confidence && npm install && npm run start
 ```
 
-then go to https://cors-anywhere.herokuapp.com/corsdeno and hit the button.
+then go to https://cors-anywhere.herokuapp.com/corsdemo and hit the button.
 Should work after that :)
 
 # Getting Started with Create React App
