@@ -1,0 +1,206 @@
+{
+	"locations": [
+		{
+			"id": 71918,
+			"locationId": "BUS5CDLC",
+			"locationName": "Hardware & Software Store",
+			"locationDetails": "Computer Software Store",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "3777 Stevens Creek Boulevard",
+				"addressLine2": "",
+				"city": "Santa Clara",
+				"state": "CA",
+				"zip": "95051"
+			},
+			"locationUserRole": "Member",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -121.968018,
+			"latitude": 37.323527
+		},
+		{
+			"id": 78159,
+			"locationId": "BUS8S3BH",
+			"locationName": "Test declined",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 51844,
+			"locationId": "HOTEUNGL",
+			"locationName": "Shailaja test July 2",
+			"locationDetails": "Shailaja test July 2",
+			"locationType": "Hotel",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "103",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 77854,
+			"locationId": "HOMKRHJT",
+			"locationName": "Test template groups only",
+			"locationDetails": "Test template groups only",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 90476,
+			"locationId": "HOMZRY3N",
+			"locationName": "test review process",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Group Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 45281,
+			"locationId": "BUSQC7UR",
+			"locationName": "BUIZyzz",
+			"locationDetails": "",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 84856,
+			"locationId": "HOMFBZLG",
+			"locationName": "test my comp",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "567 Pine Street",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94108"
+			},
+			"locationUserRole": "Owner",
+			"active": false,
+			"newLocation": true,
+			"subscriptionActive": false,
+			"longitude": -122.405502,
+			"latitude": 37.791419
+		},
+		{
+			"id": 80832,
+			"locationId": "OFFVGXQZ",
+			"locationName": "Group Count Office",
+			"locationType": "Office",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Group Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 45589,
+			"locationId": "HOMFXP6E",
+			"locationName": "Test new templates",
+			"locationDetails": "Test new templates",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "South San Francisco",
+				"state": "CA",
+				"zip": "94080"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.44571,
+			"latitude": 37.652675
+		},
+		{
+			"id": 21809,
+			"locationId": "HOMOFIWU",
+			"locationName": "A Home Name",
+			"locationDetails": "A Home Nick name",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "111 North 84th Street",
+				"city": "Omaha",
+				"state": "NE",
+				"zip": "68114"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		}
+	],
+	"numberOfLocations": 53
+}

@@ -1,0 +1,202 @@
+{
+	"locations": [
+		{
+			"id": 98008,
+			"locationId": "BUS9S8LA",
+			"locationName": "Task Group Reports workspace",
+			"locationDetails": "Task Group Reports workspace",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 12119,
+			"locationId": "HOMLCREQ",
+			"locationName": "shailaja home",
+			"locationDetails": "my home",
+			"description": "Shailaja's Home desc - and adding more description",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 93923,
+			"locationId": "HOMJN2NN",
+			"locationName": "Non Seq Dev",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 98587,
+			"locationId": "BUS3YG6X",
+			"locationName": "Test ReAssign TG",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 95156,
+			"locationId": "HOMRCW5H",
+			"locationName": "Non Seq group report",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 98233,
+			"locationId": "BUSIL467",
+			"locationName": "Variance workspace",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 23270,
+			"locationId": "SHOIMM8V",
+			"locationName": "Waterson Towers - Student Housing",
+			"locationDetails": "",
+			"description": "Student housing\n",
+			"locationType": "Student Housing",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "315 South Fell Avenue",
+				"city": "Normal",
+				"state": "IL",
+				"zip": "61761"
+			},
+			"locationUserRole": "Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 17627,
+			"locationId": "HOM8WBLI",
+			"locationName": "Validate Team Member",
+			"locationDetails": "Validate Team Member",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "666 North 114th Street",
+				"city": "Omaha",
+				"state": "NE",
+				"zip": "68154"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 30526,
+			"locationId": "HOMHFDTG",
+			"locationName": "MTV Home",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 80945,
+			"locationId": "HOT2SFMH",
+			"locationName": "Workspace Hotel - Test",
+			"locationDetails": "hello",
+			"locationType": "Hotel",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		}
+	],
+	"numberOfLocations": 53
+}

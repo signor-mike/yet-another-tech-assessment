@@ -1,0 +1,208 @@
+{
+	"locations": [
+		{
+			"id": 55340,
+			"locationId": "HOTV2TD2",
+			"locationName": "Test shailu July 7",
+			"locationType": "Hotel",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 17791,
+			"locationId": "BUSJOVJF",
+			"locationName": "Business Workspace",
+			"locationDetails": "",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "11 Van Ness Avenue",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94102"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 75266,
+			"locationId": "HOTLYDZO",
+			"locationName": "Validate comments on New workspace",
+			"locationDetails": "Workspace for Comments",
+			"locationType": "Hotel",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": false,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 78045,
+			"locationId": "GENNAVQA",
+			"locationName": "Task status test",
+			"locationDetails": "Task status test",
+			"locationType": "General",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 72956,
+			"locationId": "GEN8BJFW",
+			"locationName": "Validating Debezium and Kinesis",
+			"locationDetails": "Validating Debezium Server",
+			"locationType": "General",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 73228,
+			"locationId": "HOMDXDGR",
+			"locationName": "test new workspace comment",
+			"locationDetails": "test new workspace comment",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 60872,
+			"locationId": "OFFFKRTQ",
+			"locationName": "New Office",
+			"locationDetails": "1234",
+			"locationType": "Office",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "103",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Group Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 73215,
+			"locationId": "HOM7DMER",
+			"locationName": "Validate CRUD APIs for Report Repository",
+			"locationDetails": "test comments",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 72258,
+			"locationId": "HOM8U9V3",
+			"locationName": "Localization",
+			"locationDetails": "Localization Testing",
+			"description": "This workspace is for localization testing",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 68657,
+			"locationId": "OFFAXW9I",
+			"locationName": "sync test",
+			"locationType": "Office",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "103",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		}
+	],
+	"numberOfLocations": 53
+}

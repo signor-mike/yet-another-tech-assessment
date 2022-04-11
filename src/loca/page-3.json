@@ -1,0 +1,187 @@
+{
+	"locations": [
+		{
+			"id": 28032,
+			"locationId": "OFFB7PAU",
+			"locationName": "Headquarters",
+			"locationDetails": "HQ",
+			"locationType": "Office",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "2100 Emerson Street",
+				"addressLine2": "210",
+				"city": "Palo Alto",
+				"state": "CA",
+				"zip": "94301"
+			},
+			"locationUserRole": "Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 14457,
+			"locationId": "ABB6T8XW",
+			"locationName": "San Francisco Airbnb",
+			"locationDetails": "",
+			"locationType": "Airbnb",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "45 Western Shore Lane",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94115"
+			},
+			"locationUserRole": "Group Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 32556,
+			"locationId": "GENP9D3G",
+			"locationName": "Empty Group test ",
+			"locationDetails": "1234",
+			"locationType": "General",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "103",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 32462,
+			"locationId": "ABBDMKVG",
+			"locationName": "Test Aggregate count",
+			"locationDetails": "",
+			"locationType": "Airbnb",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 23257,
+			"locationId": "BUS9LHGU",
+			"locationName": "Group Count Tests",
+			"locationDetails": "Group Counts - Template Group",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "2100 Market Street",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94114"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 21871,
+			"locationId": "ABBP8FXY",
+			"locationName": "test test air",
+			"locationDetails": "",
+			"locationType": "Airbnb",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "170 Fell Street",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94102"
+			},
+			"locationUserRole": "Group Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 21810,
+			"locationId": "ABB9UWCS",
+			"locationName": "A AIRBNB",
+			"locationDetails": "A NICK AIRBNB",
+			"locationType": "Airbnb",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "111 North 84th Street",
+				"city": "Omaha",
+				"state": "NE",
+				"zip": "68114"
+			},
+			"locationUserRole": "Member",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 17625,
+			"locationId": "HOMI8HUG",
+			"locationName": "shailaja’s Workspace",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "111 Taylor Street",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94102"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 16917,
+			"locationId": "OFFZODZ7",
+			"locationName": "Testing Count for Groups",
+			"locationDetails": "",
+			"locationType": "Office",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "111 Taylor Street",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94102"
+			},
+			"locationUserRole": "Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 14456,
+			"locationId": "ABBJ0DPH",
+			"locationName": "San Francisco Restaurant",
+			"locationDetails": "",
+			"locationType": "Airbnb",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "45 Western Shore Lane",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94115"
+			},
+			"locationUserRole": "Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		}
+	],
+	"numberOfLocations": 53
+}

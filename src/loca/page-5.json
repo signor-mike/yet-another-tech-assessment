@@ -1,0 +1,66 @@
+{
+    "locations": [
+      {
+        "id": 91630,
+        "locationId": "HOMPTC7C",
+        "locationName": "Naveen's workspace test",
+        "locationDetails": "Mine",
+        "locationType": "Personal",
+        "numberofDevices": 0,
+        "address": {
+          "addressLine1": "175 Cuesta Drive",
+          "city": "Mountain View",
+          "state": "CA",
+          "zip": "94040"
+        },
+        "locationUserRole": "Manager",
+        "active": true,
+        "newLocation": false,
+        "subscriptionActive": false,
+        "longitude": -122.078401,
+        "latitude": 37.373305
+      },
+      {
+        "id": 96412,
+        "locationId": "HOMOUD4L",
+        "locationName": "Test workspace Mar7",
+        "locationDetails": "test desc",
+        "locationType": "Personal",
+        "numberofDevices": 0,
+        "address": {
+          "addressLine1": "175 Cuesta Drive",
+          "addressLine2": "",
+          "city": "Mountain View",
+          "state": "CA",
+          "zip": "94040"
+        },
+        "locationUserRole": "Member",
+        "active": true,
+        "newLocation": false,
+        "subscriptionActive": true,
+        "longitude": -122.078401,
+        "latitude": 37.373305
+      },
+      {
+        "id": 97908,
+        "locationId": "BUSS5EKK",
+        "locationName": "Rework workspace",
+        "locationType": "Business",
+        "numberofDevices": 0,
+        "address": {
+          "addressLine1": "175 Cuesta Drive",
+          "addressLine2": "",
+          "city": "Mountain View",
+          "state": "CA",
+          "zip": "94040"
+        },
+        "locationUserRole": "Member",
+        "active": false,
+        "newLocation": false,
+        "subscriptionActive": true,
+        "longitude": -122.078401,
+        "latitude": 37.373305
+      }
+    ],
+    "numberOfLocations": 53
+  }

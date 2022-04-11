@@ -1,0 +1,204 @@
+{
+	"locations": [
+		{
+			"id": 14450,
+			"locationId": "BUSWFNNT",
+			"locationName": "Curry Chutneys",
+			"locationDetails": "Chutneys",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "233 4th Street Northwest",
+				"city": "Charlottesville",
+				"state": "VA",
+				"zip": "22903"
+			},
+			"locationUserRole": "Group Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 14309,
+			"locationId": "OFFWRRCO",
+			"locationName": "BULK NOTI",
+			"locationDetails": "shailaja’s Workspace",
+			"locationType": "Office",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "11650 South 154th Street",
+				"city": "Omaha",
+				"state": "NE",
+				"zip": "68138"
+			},
+			"locationUserRole": "Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 13610,
+			"locationId": "SCHRYEFH",
+			"locationName": "Grahm Middle School",
+			"locationDetails": "Grahm School",
+			"description": "graham middle school mountain view 1 4",
+			"locationType": "School",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "1175 Castro Street",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Group Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 12954,
+			"locationId": "OFFAZ3PX",
+			"locationName": "PS Omaha Group",
+			"locationDetails": "",
+			"description": "Adding location description and updating it",
+			"locationType": "Office",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "11650 South 154th Street",
+				"city": "Omaha",
+				"state": "NE",
+				"zip": "68138"
+			},
+			"locationUserRole": "Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true
+		},
+		{
+			"id": 77949,
+			"locationId": "BUS2SIVP",
+			"locationName": "Validate Workspace Creation",
+			"locationDetails": "Validate Workspace Creation",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Group Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 77384,
+			"locationId": "BUS2J9DP",
+			"locationName": "workspace to validate ACL",
+			"locationDetails": "workspace to validate ACL",
+			"locationType": "Business",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Group Manager",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 85620,
+			"locationId": "HOMVN5OQ",
+			"locationName": "ewrew",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "22 Franklin Street",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94102"
+			},
+			"locationUserRole": "Member",
+			"active": false,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.420609,
+			"latitude": 37.774757
+		},
+		{
+			"id": 88552,
+			"locationId": "HOMH7YAC",
+			"locationName": "Test declined status report",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 93724,
+			"locationId": "HOM2Z9JJ",
+			"locationName": "Test Pause feature",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Member",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		},
+		{
+			"id": 95399,
+			"locationId": "HOMPANT8",
+			"locationName": "check audit fields",
+			"locationDetails": "",
+			"locationType": "Personal",
+			"numberofDevices": 0,
+			"address": {
+				"addressLine1": "175 Cuesta Drive",
+				"addressLine2": "",
+				"city": "Mountain View",
+				"state": "CA",
+				"zip": "94040"
+			},
+			"locationUserRole": "Manager",
+			"active": true,
+			"newLocation": false,
+			"subscriptionActive": true,
+			"longitude": -122.078401,
+			"latitude": 37.373305
+		}
+	],
+	"numberOfLocations": 53
+}
