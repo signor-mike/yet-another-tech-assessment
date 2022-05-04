@@ -1,4 +1,14 @@
 # bikes
+### RUN:
+```
+git clone https://github.com/Mike-OxHuge/yet-another-tech-assessment.git && cd yet-another-tech-assessment && git checkout fastloop && npm install && npm run build && sudo npm install -g serve && serve -s dist
+```
+
+### CLEANUP (given that you haven't changed directory):
+```
+cd .. && rm -rf yet-another-tech-assessment
+```
+# Or follow default instructions below:
 
 ## Project setup
 ```
