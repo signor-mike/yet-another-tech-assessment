@@ -17,8 +17,10 @@ export default [
 			count: 8560,
 		},
 		name: "adventure neo 1 eq",
-		description:
-			"Una bici elettrica ideale per andare al lavoro o per godersi le caratteristiche stradine di campagna",
+		description: {
+			en: "An electric bike ideal for going to work or enjoying the characteristic country lanes",
+			it: "Una bici elettrica ideale per andare al lavoro o per godersi le caratteristiche stradine di campagna",
+		},
 		type: {
 			value: "e-bike",
 			wtf: "corsa",
@@ -48,8 +50,10 @@ export default [
 			count: 100000,
 		},
 		name: "adventure neo 2 eq",
-		description:
-			"Una bici elettrica perfetta per la città, le piste ciclabili ed i sentieri di campagna.",
+		description: {
+			en: "A perfect electric bike for the city, cycle paths and country paths.",
+			it: "Una bici elettrica perfetta per la città, le piste ciclabili ed i sentieri di campagna.",
+		},
 		type: {
 			value: "e-bike",
 			wtf: "corsa",

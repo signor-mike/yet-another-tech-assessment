@@ -1,5 +1,17 @@
+<i18n>
+{
+  "en": {
+    "message": "Hi!"
+  },
+  "it": {
+    "message": "Ciao!"
+  }
+}
+</i18n>
 <template>
 	<v-app>
+		<LanguageSwitcher />
+		<h1>{{ $t("message") }}</h1>
 		<v-main>
 			<v-row stye="max-width: 100%" class="ma-2">
 				<v-col
@@ -18,6 +30,7 @@
 
 <script>
 	import Bike from "./components/Bike";
+	import LanguageSwitcher from "./components/LanguageSwitcher.vue";
 	import bikes from "./mock/bikes.js";
 
 	export default {
@@ -25,6 +38,7 @@
 
 		components: {
 			Bike,
+			LanguageSwitcher,
 		},
 
 		data: () => ({

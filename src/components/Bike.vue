@@ -1,3 +1,24 @@
+<i18n>
+{
+  "en": {
+	"size": "sizes",
+	"colors": "colors",
+	"compare": "compare",
+	"scopri": "see more",
+	"used": "used",
+	"new": "new"
+  },
+  "it": {
+    "size": "taglia",
+	"colors": "colori",
+	"compare": "compara",
+	"scopri": "scopri",
+	"used": "usato",
+	"new": "nuovo"
+  }
+}
+</i18n>
+
 <template>
 	<v-container
 		class="main-wrap my-3"
@@ -24,7 +45,7 @@
 				class="new-used-banner d-flex flex-column-reverse"
 				:class="bike.isNew ? 'banner-new' : 'banner-used'"
 			>
-				<p class="mb-0">{{ bike.isNew ? "nuovo" : "usato" }}</p>
+				<p class="mb-0">{{ bike.isNew ? $t("new") : $t("used") }}</p>
 			</div>
 		</div>
 
@@ -113,7 +134,7 @@
 							line-height: 140%;
 						"
 					>
-						{{ bike.description }}
+						{{ bike.description[$i18n.locale] }}
 					</p>
 				</v-col>
 
@@ -145,7 +166,7 @@
 					</div>
 
 					<div class="light-badge">
-						<span style="color: #a1a1a1">taglia</span>
+						<span style="color: #a1a1a1">{{ $t("size") }}</span>
 						<span
 							v-for="size in bike.sizes"
 							:key="size.i"
@@ -156,7 +177,7 @@
 					</div>
 
 					<div class="light-badge">
-						<span style="color: #a1a1a1">colori</span>
+						<span style="color: #a1a1a1">{{ $t("colors") }}</span>
 						<span style="color: #646464">
 							+ {{ bike.colors.length }}
 						</span>
@@ -208,7 +229,7 @@
 						text-transform: uppercase;
 						color: #515151;
 					"
-					>COMPARA</span
+					>{{ $t("compare") }}</span
 				>
 			</div>
 			<v-btn
@@ -216,7 +237,7 @@
 				class="white--text mt-auto"
 				target="_blank"
 				href="https://www.google.com/search?q=kittens&newwindow=1&client=ubuntu&hs=tK6&channel=fs&sxsrf=ALiCzsZmEt-TShrCUKMDiEytpcA91ueOrQ:1651622334457&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi2k7HUxMT3AhVOh_0HHcpZCmMQ_AUoAXoECAEQAw&biw=1920&bih=939&dpr=1"
-				>SCOPRI
+				>{{ $t("scopri") }}
 				<v-icon>arrow_forward</v-icon>
 			</v-btn>
 		</div>
