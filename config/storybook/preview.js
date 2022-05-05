@@ -1,9 +1,9 @@
 // Imports for configuring Vuetify
 import Vue from "vue";
 import Vuetify from "vuetify";
-import VueI18n from "vue-i18n"; // <== NOTE: I usually use i18n
+import VueI18n from "vue-i18n";
 import i18n from "@/i18n";
-import { options } from "@/plugins/vuetify"; // <== important
+import { options } from "../../src/plugins/vuetify.js"; // <== important
 
 // configure Vue to use Vuetify
 Vue.use(Vuetify);
@@ -28,22 +28,12 @@ export const decorators = [
 			i18n,
 			components: { wrapped },
 			props: {
-				dark: {
-					type: Boolean,
-					default: context.args.dark,
-				},
 				locale: {
 					type: String,
 					default: "en",
 				},
 			},
 			watch: {
-				dark: {
-					immediate: true,
-					handler(val) {
-						this.$vuetify.theme.dark = val;
-					},
-				},
 				locale: {
 					immediate: true,
 					handler(val) {

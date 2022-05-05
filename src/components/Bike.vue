@@ -1,7 +1,7 @@
 <template>
 	<v-container
 		class="main-wrap my-3"
-		style="height: 650px; max-height: content-fit; max-width: content-fit"
+		style="height: 650px; max-height: content-fit"
 		d-flex
 		flex-column
 		justify-space-between

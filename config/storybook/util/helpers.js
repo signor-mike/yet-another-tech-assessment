@@ -8,7 +8,6 @@ export const storyFactory = (options) => {
 		// component-level default args to the component being tested
 		// you could add other app-level options here, too!
 		args: {
-			dark: true,
 			...args,
 		},
 		argTypes: {
