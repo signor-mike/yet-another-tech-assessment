@@ -2,6 +2,7 @@ import { action } from "@storybook/addon-actions";
 import { linkTo } from "@storybook/addon-links";
 
 import MyButton from "../components/MyButton.vue";
+import LanguageSwitch from "../components/LanguageSwitcher.vue";
 
 export default {
 	title: "Button",
@@ -26,4 +27,11 @@ export const withJSX = () => ({
 export const withSomeEmoji = () => ({
 	components: { MyButton },
 	template: "<my-button>😀 😎 👍 💯</my-button>",
+});
+
+export const languageSwitch = () => ({
+	components: { LanguageSwitch },
+	render() {
+		return <LanguageSwitch />;
+	},
 });
