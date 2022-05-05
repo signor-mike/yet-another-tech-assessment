@@ -250,36 +250,37 @@
 		props: {
 			bike: {
 				type: Object,
-				default: () => ({
-					isFavorite: false,
-					isNew: false,
-					images: [
-						"https://picsum.photos/800/600?random=1",
-						"https://picsum.photos/800/600?random=2",
-						"https://picsum.photos/800/600?random=3",
-					],
-					collection: {
-						name: "cannondale",
-						year: "2019",
-					},
-					rating: {
-						stars: 4,
-						count: 8560,
-					},
-					name: "adventure neo 1 eq",
-					description:
-						"Una bici elettrica ideale per andare al lavoro o per godersi le caratteristiche stradine di campagna",
-					type: {
-						value: "e-bike",
-						wtf: "corsa",
-					},
-					sizes: ["s", "m", "l", "xl"],
-					colors: ["red", "blue", "green", "yellow"],
-					price: {
-						newPrice: 3299,
-						oldPrice: 3299,
-					},
-				}),
+				required: false,
+				// default: () => ({
+				// 	isFavorite: false,
+				// 	isNew: false,
+				// 	images: [
+				// 		"https://picsum.photos/800/600?random=1",
+				// 		"https://picsum.photos/800/600?random=2",
+				// 		"https://picsum.photos/800/600?random=3",
+				// 	],
+				// 	collection: {
+				// 		name: "cannondale",
+				// 		year: "2019",
+				// 	},
+				// 	rating: {
+				// 		stars: 4,
+				// 		count: 8560,
+				// 	},
+				// 	name: "adventure neo 1 eq",
+				// 	description:
+				// 		"Una bici elettrica ideale per andare al lavoro o per godersi le caratteristiche stradine di campagna",
+				// 	type: {
+				// 		value: "e-bike",
+				// 		wtf: "corsa",
+				// 	},
+				// 	sizes: ["s", "m", "l", "xl"],
+				// 	colors: ["red", "blue", "green", "yellow"],
+				// 	price: {
+				// 		newPrice: 3299,
+				// 		oldPrice: 3299,
+				// 	},
+				// }),
 			},
 		},
 
