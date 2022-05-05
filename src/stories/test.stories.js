@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import TestComponent from "../components/TestComponent.vue";
 
 export default {

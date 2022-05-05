@@ -1,7 +1,8 @@
 <template>
 	<div>
 		<p>{{ testString }}</p>
-		<!-- <p>{{ $t("message") }}</p> -->
+		<p>{{ $t("message") }}</p>
+		<p>{{ $t("scopri") }}</p>
 	</div>
 </template>
 
