@@ -1,13 +1,3 @@
-<i18n>
-{
-  "en": {
-    "message": "Hi!"
-  },
-  "it": {
-    "message": "Ciao!"
-  }
-}
-</i18n>
 <template>
 	<v-app>
 		<LanguageSwitcher />

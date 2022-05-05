@@ -1,1 +1,9 @@
-{}
+{
+	"message": "Hi!",
+	"size": "sizes",
+	"colors": "colors",
+	"compare": "compare",
+	"scopri": "see more",
+	"used": "used",
+	"new": "new"
+}
